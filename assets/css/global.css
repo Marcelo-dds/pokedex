@@ -54,7 +54,7 @@ body {
 .pokemon {
     margin: .5rem;
     padding: 1rem;
-    background-color: #49d0b0;
+    background-color: #379c08;
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
@@ -87,7 +87,7 @@ body {
 }
 
 .pokemon .detail .types .type {
-    background-color: #61e1ca;
+
     color: #FFF;
     padding: .25rem .5rem;
     font-size: .625rem;
